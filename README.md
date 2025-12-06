@@ -1,4 +1,8 @@
-# TESTING OF FILESET WITH BASE GROK4.1
+<img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/SPHERE.jpeg" alt="SPHERE" width="100%">
+
+
+
+# DROP ALL FILES AT ROOT INTO GROK4+
 
 > what is the definition of conatus
 
@@ -241,7 +245,7 @@ This tech stack isn't a barrier; it's your accelerator. With your philosophical 
 ---
 ---
 
-<img src="https://example.com/image1.jpg" alt="Image 1" width="100%">
+<img src="https://github.com/neuresthetics/isomorphic_data_singularity/raw/main/img/Pasted%20image.png" alt="HEAVY GROK ACTIVATE" width="100%">
 
 # ETHICAL EVALUATION of this with COLLIDERΩ (Neuresthetics LLC 2017)
 
