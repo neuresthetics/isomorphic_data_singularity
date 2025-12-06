@@ -103,7 +103,7 @@ To "run the sphere," I interpreted this as simulating its mathematical model fro
 
 This toy run illustrates how the sphere's math orients systems toward ethical human-AI harmony: boost growth (GP) via diversity, minimize coercion (DC) and freezing (ρ), and export entropy. For a full 5D simulation on S⁴, embed coordinates with normalization \(\|\xi\|=1\) and add stochastic perturbations. If this isn't what you meant by "run the sphere," clarify!
 
-> What can someone do if they recieve this information. Is it powerful to them?
+> What can someone do if they recieve this information.
 
 ### Applying the Sphere: Actions and Empowerment
 
