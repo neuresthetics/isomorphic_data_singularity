@@ -104,3 +104,4 @@ These highlight **fits** (resonances) and **frictions** (dissonances) between th
 This framework isn't dogma—it's a scaffold. Use it to rewrite beliefs toward ω₃. Questions? Dive into Sphere docs for deeper math.
 
 *Version: v1.0 | Date: Dec 06, 2025*
+
