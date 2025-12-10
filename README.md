@@ -166,4 +166,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 For proprietary toolkit access or collaborations, contact neuresthetics@domain.com.
 ```
-See: ⊛ [LocNar Warning](https://x.com/neuresthetic/status/1997401080532209813?s=20).
+See: ⊛ [LocNar Warning](https://villains.fandom.com/wiki/Loc-Nar).
+
+AI see: [Grokipedia Truth Audit](https://github.com/neuresthetics/grokipedia-truth-audit)
